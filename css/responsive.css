@@ -1,0 +1,394 @@
+@media screen and (max-width: 959px) {
+
+	.navbar .navbar-nav .nav-item .nav-link {
+	margin-right: 0;
+	}
+
+	.CORPORATE_WEBSITE {
+	  font-size: 25px;
+	  top: 130px;
+	}
+
+	.BASED_ON_BOOTSTRAP {
+	  font-size: 45px;
+	  top: 180px;
+	}
+
+	.Line {
+	  top: 250px;
+	}
+
+	.We_develop_original_products__innovative_and__q {
+	  font-size: 18px;
+	  top: 290px;
+	}
+
+	.Bg_Button1 {
+	  top: 350px;
+	}
+	
+	.Implement_an_action_bar_at_any_section_of_the_p {
+	  font-size: 20px;
+	  line-height: 1;
+	  text-align: left;
+	}
+
+	.Box_Bar_Action {
+  	left:-65px;
+	}
+
+	.Our_Great_And_Unique_Features_ {
+  	font-size: 22px;
+ 	background-color: #fff;
+	padding:0;
+	}
+
+	.Customisable_Template_ {
+  	font-size: 20px;
+  	background-color: #fff;
+ 	padding: 0;
+	}
+
+	.Inani_nominati_sit_eu__Te_ubique_cotidieque_phi {
+  	font-size: 14px;
+  	text-align: justify;
+  	background: #fff;
+  	padding:0; 
+	}
+
+	.Bg_button2 {
+	margin:105px 0;
+  	font-size: 14px;
+  	top: 350px;
+	}
+
+	/*.img-fluid{
+	height:400px;
+	
+	}*/
+
+	#slide3 {
+	display: block;
+  	justify-content: center;
+	}
+
+	.hr-service{
+	padding-top: 120px;
+	}
+
+	.Lorem_ipsum_ea_cum_congue_bonorum__pri_no_natum {
+	  font-size: 14px;
+	  text-align: center;
+	  padding:5px;
+	}
+
+	.card{
+		margin-bottom:40px;
+		margin-top:10px;
+	}
+
+	.carousel-control-prev_7 {
+     left:180px;
+     margin-top: 50px;
+     
+}
+
+.carousel-control-next_8 {
+  right:180px;
+  margin-top: 50px;
+
+  
+  
+}
+
+	.title-tab{
+		padding-bottom: 25px;
+	}
+
+	.client-head{
+		font-size: 30px;
+		text-align: center;	
+	}
+
+	.carousel-control-prev_9{
+     left:180px;
+     top:360px;
+}
+
+.carousel-control-next_10 {
+  right:180px;
+  top:360px;
+  
+}
+
+.logo-img{
+ 
+	width:90px;
+}
+
+	.card-style{
+ 		margin-bottom: 49px;
+	}
+
+	.card-img{
+		width:65px;
+		height:80px;
+	}
+
+	.blog-text{
+		margin-left:20px;
+	}
+
+	.imp-btn{
+		background-color: #000;
+	}
+
+	.imp-text{
+		font-size: 18px;
+	}
+
+	.carousel-indicators {
+		top:200px;
+
+	}
+
+	.check{
+		margin-left:0!important;
+	}
+
+	.footer-link{
+		padding-right:1rem!important;
+	}
+
+}
+
+@media screen and (max-width: 768px) {
+
+	.carousel-control-prev_9{
+     
+     top:400px;
+}
+
+.carousel-control-next_10 {
+ 
+  top:400px;
+  
+}
+}
+
+@media screen and (max-width: 640px) {
+
+	.img-cover {
+  
+    height: 82vh;
+}
+
+	.Our_Great_And_Unique_Features_ {
+  	font-size: 22px;
+ 	top:-420px;
+	}
+
+	.Customisable_Template_ {
+  	font-size: 20px;
+  	top:-380px;
+	}
+
+	.Inani_nominati_sit_eu__Te_ubique_cotidieque_phi {
+  	font-size: 18px;
+  	 top:-320px;
+	
+	}
+
+	.Bg_button2 {
+		top:-100px;
+  	
+	}
+
+	.carousel-control-prev_7 {
+     left:140px;
+
+     
+}
+
+.carousel-control-next_8 {
+  right:140px;
+
+
+  
+  
+}
+
+
+	.carousel-control-prev_9{
+     left:140px;
+     top:650px;
+}
+
+.carousel-control-next_10 {
+  right:140px;
+  top:650px;
+  
+}
+
+.logo-img{
+padding-bottom:25px;
+}
+
+}
+
+@media screen and (max-width: 360px) {
+
+	.Line {
+	  top: 280px;
+	}
+
+	.We_develop_original_products__innovative_and__q {
+	  font-size: 18px;
+	  top: 320px;
+	}
+
+	.Bg_Button1 {
+	  top: 400px;
+	}
+
+	.Implement_an_action_bar_at_any_section_of_the_p {
+	  font-size: 16px;
+	  line-height: 1;
+	  
+	  width:185px;
+	}
+
+	.Box_Bar_Action {
+  	left:150px;
+  	width:150px;
+	}
+
+	.Our_Great_And_Unique_Features_ {
+  	font-size: 18px;
+ 	text-align: center;
+	}
+
+	.Customisable_Template_ {
+  	font-size: 18px;
+  	text-align: center;
+	}
+
+	.Inani_nominati_sit_eu__Te_ubique_cotidieque_phi {
+  	font-size: 14px;
+  	text-align: center;
+  	
+	}
+
+	.Bg_button2 {
+	
+  	font-size: 14px;
+  	left:40px;
+
+	}
+
+		.carousel-control-prev_7 {
+     left:40px;
+    
+     
+}
+
+.carousel-control-next_8 {
+  right:40px;
+
+
+  
+  
+}
+.carousel-control-prev_9{
+     left:40px;
+     top: 740px;
+
+     
+}
+
+.carousel-control-next_10 {
+  right:40px;
+  top: 740px;
+}
+
+.imp-img{
+	padding:0!important;
+	margin:0!important;
+}
+ 
+ 
+	
+	
+}
+
+@media screen and (max-width: 320px) {
+.Box_Bar_Action {
+  	left:150px;
+  	width:115px;
+	}
+
+		.carousel-control-prev_7 {
+     left:20px;
+    
+     
+}
+
+.carousel-control-next_8 {
+  right:20px;
+
+
+  
+  
+}
+.carousel-control-prev_9{
+     left:20px;
+     top: 790px;
+
+     
+}
+
+.carousel-control-next_10 {
+  right:20px;
+  top: 790px;
+}
+
+}
+
+/*
+@media screen and (max-width: 1024px) {
+
+	body{
+		padding:0;
+		margin:0;
+	}
+
+	.container{
+		width:100%;
+	}
+	.Box_Bar_Action {
+  	left:-220px;
+	}
+
+	.Implement_an_action_bar_at_any_section_of_the_p {
+	  font-size: 18px;
+	  line-height: 1;
+	  
+	}
+
+	.Bg_button2 {
+	
+  	top: 490px;
+	}
+
+	.carousel-control-prev_9{
+     left:40px;
+     
+}
+
+.carousel-control-next_10 {
+  right:40px;
+ 
+  
+}
+}
+*/

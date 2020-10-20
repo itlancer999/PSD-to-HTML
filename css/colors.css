@@ -1,0 +1,199 @@
+
+
+/*//////////////////////////////////BODY////////////////////////////////////////////////*/
+body{
+color:#424242;
+}
+
+/*//////////////////////////////////HEADER////////////////////////////////////////////////*/
+.bg-light{
+	background-color:#ffffff!important;	
+}
+
+.bg-light{
+	background-color:#ffffff!important;	
+}
+nav{
+border-bottom:#bfbfbf;
+	border-bottom:#2a94a2;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+color:#424242; 
+}
+
+nav .navbar-nav .nav-item .nav-link:hover {
+	color: #2ac4ea;
+}
+
+/*//////////////////////////////////COVER////////////////////////////////////////////////*/
+.CORPORATE_WEBSITE {
+olor: rgb(255, 255, 255);
+}
+.We_develop_original_products__innovative_and__q {
+color: rgb(255, 255, 255);
+}
+
+.Bg_Button1 {
+background-color: rgb(41, 192, 212);
+}
+
+.Line {
+background-color: rgb(41, 192, 212);
+}
+.BASED_ON_BOOTSTRAP {
+color: rgb(255, 255, 255);
+}
+.main-below{
+background-color: #131313;
+}
+.Implement_an_action_bar_at_any_section_of_the_p {
+color: rgb(255, 255, 255);
+}
+
+
+/*//////////////////////////////////SERVICES////////////////////////////////////////////////*/
+.Our_Great_And_Unique_Features_ {
+color: rgb(19, 19, 19);
+}
+
+.Customisable_Template_ {
+color: rgb(41, 192, 212);
+}
+
+.Inani_nominati_sit_eu__Te_ubique_cotidieque_phi {
+color: rgb(66, 66, 66);
+}
+
+.Bg_button2 {
+  background-color:#29c0D4;
+}
+.carousel-control-prev_3,
+.carousel-control-next_4 {
+border: 1px solid #131313;
+  background-color: #131313;
+}
+
+.Lorem_ipsum_ea_cum_congue_bonorum__pri_no_natum {
+color: rgb(66, 66, 66);
+}
+
+
+/*//////////////////////////////////PORTFOLIO////////////////////////////////////////////////*/
+
+figcaption{
+  background-color: #fff;
+}
+
+.carousel-control-prev_7,
+.carousel-control-next_8 {
+  outline: black;  
+  border: 1px solid #131313;
+  background-color: #131313;
+}
+
+/*//////////////////////////////////CLIENTS////////////////////////////////////////////////*/
+
+.client-head{
+  color:#fff;
+}
+.head-arrow{
+  background-color: #000;
+  color:#fff;
+}
+.port-arrow{
+  color:#fff;
+
+}
+.carousel-control-prev_9,
+.carousel-control-next_10 {
+  border: 1px solid #131313;
+  background-color: #131313;
+}
+
+/*//////////////////////////////////BLOG POST////////////////////////////////////////////////*/
+.arrow{
+  background-color: transparent;
+}
+.blog-arrow{
+  color:#29c0d4;
+}
+
+/*//////////////////////////////////INFORMATION SECTION////////////////////////////////////////////////*/
+.imp-head{
+  color:#fff;
+}
+.imp-btn{
+  background-color:#000;
+  color: rgb(255, 255, 255);
+}
+
+/*//////////////////////////////////FOOTER SECTION////////////////////////////////////////////////*/
+.footer-link{
+  color:#dddddd;
+}
+
+.footer-tab-link{
+  color:#29c0d4;
+}
+.code-text{
+  color:#fff;
+
+}
+footer{
+  color:#fff;
+}
+
+.page-footer{
+  background-color: #303030;
+}
+
+.page-footer2{
+  background-color: #131313; 
+}
+
+.page-footer3{
+  background-color: #303030;
+}
+.footer-hr{
+  background-color:#333333;
+}
+.btn-footer{
+  background-color: #333333;
+  color:#fff;
+}
+.carousel-indicators .active{
+  background-color: #28bcc1;
+}
+.icon-tweet{
+  color:#29c0d4;
+}
+.icon-news{
+  color:#8c8c8c;
+}
+.icon-style{
+  background-color: #656565;
+  color:#2f2f2f;
+}
+.icon-style-f{
+  background-color: #656565;
+ color:#2f2f2f;
+}
+input[type='checkbox']{
+  outline: 1px solid #29bace;
+background: #1c1c1c;
+}
+input[type='checkbox']:checked:after {
+color: #29bace;
+}
+.arrow_box {
+background: #131313;
+}
+.arrow_box:after {
+  border-color: rgba(136, 183, 213, 0);
+  border-bottom-color:#131313;
+}
+.arrow_box:before {
+  border-color: rgba(194, 225, 245, 0);
+  border-bottom-color: #131313;
+}
